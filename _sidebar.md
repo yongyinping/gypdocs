@@ -3,4 +3,4 @@
     * [IDEA](/devtool/idea)
     * [Maven](/devtool/maven)
 
-* MySQL
+* 数据库
